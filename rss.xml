@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Worddynamics]]></title>
+        <description><![CDATA[Worddynamics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Aug 2016 04:09:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7ac154b-b667-4c17-85a6-98657b2c44b6.jpg" alt="" title="" />]]></description>
+            <link>undefinedare-you-having-the-right-conversations-with-your-customers-a/index.html</link>
+            <guid isPermaLink="false">837f7f92-167e-48da-82bb-ca641756fb18</guid>
+            <pubDate>Sun, 07 Aug 2016 04:09:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
